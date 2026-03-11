@@ -1,5 +1,5 @@
 # Autopilot-Hackpad
-This is my HackPad/MacroPad project for the Blueprint scheme for Hack Club! I have designed this to work with my MSFS 2024 to make autopilot configuration easier and more immersive. 
+This is my HackPad/MacroPad project for the Blueprint YSWS project for Hack Club! I have designed this to work with my MSFS 2024 to make autopilot configuration easier and more immersive. 
 
 ## Here are some features and info about what it includes:
  - A small 0.91" OLED display to show the settings you have set
