@@ -13,6 +13,7 @@ I have designed this to work with my flight simulator to make autopilot configur
 ## Screenshots
 
 PCB view:
+
 <img width="904" height="602" alt="Screenshot 2026-03-10 at 19 26 10" src="https://github.com/user-attachments/assets/1649db70-94d2-4820-ab40-c7254cfe39cf" />
 <img width="904" height="602" alt="Screenshot 2026-03-10 at 19 26 05" src="https://github.com/user-attachments/assets/6c7fd43e-26d0-41fe-b01d-93663c38cac6" />
 
@@ -38,6 +39,8 @@ Here are the two parts of the case, the top section and the bottom bumper-style 
 
 
 ## Code for this MacroPad
+
+Here is an example firmware that you can use for testing. 
 
 The code is written in CircuitPython
 
@@ -115,4 +118,6 @@ pixel[0] = (0, 255, 0, 0)
 ```
 
 ## Extra Information
+There isn't really much else you need to know about this project, but I put this section to share a few small bits of information.
+
 This includes the fact that the MacroPad was designed to fit cockpits of the 737-MAX in MSFS; and also one small side note, you will need some glue and M3x16mm screws to put it together in the case!
