@@ -21,7 +21,7 @@ Schematic view:
 <img width="891" height="529" alt="Screenshot 2026-03-11 at 20 01 20" src="https://github.com/user-attachments/assets/5db7afa3-aeb5-4063-8bcf-e498f0990403" />
 
 
-Here are the two parts of the case, the top section and the bottom bumper-style part:
+Here are the two parts of the case, the top section and the bottom bumper-style part: You can find my Tinkercad design here: https://www.tinkercad.com/things/kMuqWNtUm2q/edit?returnTo=%2Fthings&sharecode=TvnqmuXe9pAtwGBK2sJ9aHeb2CSNASbWhCyXTYQ4DW4
 <img width="544" height="534" alt="Screenshot 2026-03-10 at 19 57 58" src="https://github.com/user-attachments/assets/a3fbb8c1-203f-44be-95fd-9af0ffbd0c7b" />
 
 3D visualization of the PCB
