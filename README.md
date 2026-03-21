@@ -27,6 +27,10 @@ Here are the two parts of the case, the top section and the bottom bumper-style 
 3D visualization of the PCB
 <img width="865" height="620" alt="Screenshot 2026-03-10 at 20 09 21" src="https://github.com/user-attachments/assets/ad254890-4fe8-4706-856e-666bf3c3936b" />
 
+3D visualization of the final HackPad - It is my attempt at Fusion360 but you will find the case in the Case folder from Tinkercad
+<img width="1299" height="1005" alt="Screenshot 2026-03-21 at 15 06 02" src="https://github.com/user-attachments/assets/98936ebf-bcf3-4760-9a24-f72d538c99b4" />
+
+
 | Part             | Quantity | Purpose                                    |
 |------------------|----------|---------------------------------------------|
 | MX_SK6812MINI-E  | 5        | LEDs                                         |
