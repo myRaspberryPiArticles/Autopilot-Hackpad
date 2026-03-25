@@ -27,6 +27,9 @@ Here are the two parts of the case, the top section and the bottom bumper-style 
 <img width="865" height="620" alt="Screenshot 2026-03-10 at 20 09 21" src="https://github.com/user-attachments/assets/ad254890-4fe8-4706-856e-666bf3c3936b" />
 
 3D visualization of the final HackPad - It is my attempt at Fusion360 but you will find the case in the Case folder from Tinkercad
+
+I will assemble it by soldering on all the parts on the top, except the RP2040 Zero which will be upside down, and then snug fit it inside the bottom part of the case. Then, I will put the top part of the case on top and use 4 M3x16mm screws to put it all in place. After that, I might put some sticky rubber spots on the bottom to give it extra grip after it is all in place!
+
 <img width="1299" height="1005" alt="Screenshot 2026-03-21 at 15 06 02" src="https://github.com/user-attachments/assets/98936ebf-bcf3-4760-9a24-f72d538c99b4" />
 
 
