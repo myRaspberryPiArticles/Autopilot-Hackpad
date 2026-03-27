@@ -14,8 +14,9 @@ I have designed this to work with my flight simulator to make autopilot configur
 
 PCB view:
 
-<img width="904" height="602" alt="Screenshot 2026-03-10 at 19 26 10" src="https://github.com/user-attachments/assets/1649db70-94d2-4820-ab40-c7254cfe39cf" />
-<img width="904" height="602" alt="Screenshot 2026-03-10 at 19 26 05" src="https://github.com/user-attachments/assets/6c7fd43e-26d0-41fe-b01d-93663c38cac6" />
+<img width="1009" height="719" alt="Screenshot 2026-03-27 at 18 07 34" src="https://github.com/user-attachments/assets/5678b605-5187-4f08-891d-895a41d1be32" />
+<img width="1009" height="719" alt="Screenshot 2026-03-27 at 18 07 48" src="https://github.com/user-attachments/assets/f0229094-d6ba-4f37-8cbe-bedabb35dac2" />
+
 
 Schematic view:
 <img width="1206" height="719" alt="Screenshot 2026-03-21 at 18 41 50" src="https://github.com/user-attachments/assets/58395218-f263-41a8-bb13-cb04120b4b56" />
