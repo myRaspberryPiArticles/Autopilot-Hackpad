@@ -25,7 +25,7 @@ Here are the two parts of the case, the top section and the bottom bumper-style 
 <img width="544" height="534" alt="Screenshot 2026-03-10 at 19 57 58" src="https://github.com/user-attachments/assets/a3fbb8c1-203f-44be-95fd-9af0ffbd0c7b" />
 
 3D visualization of the PCB
-<img width="865" height="620" alt="Screenshot 2026-03-10 at 20 09 21" src="https://github.com/user-attachments/assets/ad254890-4fe8-4706-856e-666bf3c3936b" />
+<img width="861" height="623" alt="Screenshot 2026-03-27 at 18 15 13" src="https://github.com/user-attachments/assets/13782da8-6df4-430f-ade6-2b6315496f29" />
 
 3D visualization of the final HackPad - It is my attempt at Fusion360 but you will find the case in the Case folder from Tinkercad
 
