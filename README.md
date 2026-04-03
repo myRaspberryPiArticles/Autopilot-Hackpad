@@ -2,7 +2,9 @@
 This is my HackPad project for the Hack Club Blueprint YSWS! 
 I have designed this to work with my flight simulator to make autopilot configuration easier and more immersive. 
 
-Before you scroll down, a few important notes! Firstly, as TinkerCAD does not support STEP files, I have provided STL files and the link to my design, so you can export it into different softwares if you wish! Secondly, note that I will buy and source some of the parts myself, because they are not provided by Hack Club. We have discussed the second point many times on Slack and confirmed that we can do this!
+> ### Notes for reviewers
+> 1. As TinkerCAD does not support STEP files, I have provided STL files and the link to my design, so you can export it into different softwares if you wish!
+> 2. My design uses some custom parts not provided by Blueprint - I will buy and source these parts myself! We have confirmed this on [Slack](https://hackclub.slack.com/archives/C09CMJV6V6K/p1772650175329709?thread_ts=1772649822.019749&cid=C09CMJV6V6K)!
 
 ## Features
  - 0.91" OLED display to show autopilot configuration
